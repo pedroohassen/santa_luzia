@@ -1,0 +1,88 @@
+{
+ "porte": {
+  "total_folga_esf": 19,
+  "folga_por_distrito": {
+   "Santa Luzia": 11,
+   "São Benedito": 8
+  },
+  "ubs_com_folga": 16,
+  "ubs_sem_dado_de_porte": [
+   "UBS Cotegipe"
+  ],
+  "porte_total_esf": 76
+ },
+ "linha_de_base": {
+  "populacao": 230382,
+  "area_km2": 233.76,
+  "pop_area_urbanizada_pct": 90.9,
+  "ubs": 28,
+  "pontos_apoio": 4,
+  "esf": 57,
+  "cadastro_esf_pct": 97.3,
+  "cobertura_potencial_egestor_pct": 86.6,
+  "cobertura_potencial_3500_pct": 86.6,
+  "cobertura_geografica_pct": 99.26,
+  "cobertura_efetiva_pct": 85.21,
+  "descobertos": 34064,
+  "descobertos_sem_vaga": 32355,
+  "descobertos_longe": 1709,
+  "pop_por_esf": 4042,
+  "cadastrados_por_esf_media": 3932,
+  "esf_acima_3500": 42,
+  "cadastrados_por_esf_max": 5942,
+  "cobertura_acs_pct": 55.4,
+  "cobertura_saude_bucal_pct": 16.7,
+  "acesso_unidade_mais_proxima": {
+   "distancia_media_km": 0.959,
+   "distancia_maxima_km": 7.55,
+   "setores_fora_do_raio": 9,
+   "pop_fora_do_raio": 1709,
+   "faixas_pct": {
+    "até 0,5 km": 20.63,
+    "0,5 a 1 km": 44.33,
+    "1 a 2 km": 30.42,
+    "2 a 3 km": 2.78,
+    "3 a 5 km": 1.16,
+    "mais de 5 km": 0.68
+   }
+  }
+ },
+ "com_plano": {
+  "cobertura_efetiva_pct": 100.0,
+  "descobertos": 0,
+  "esf": 73.0,
+  "unidades_aps": 35,
+  "pop_por_esf": 3156,
+  "pessoas_por_esf_max": 3500,
+  "esf_acima_3500": 0,
+  "ubs_novas": 7,
+  "ubs_ampliadas": 7,
+  "esf_em_ubs_existentes": 9,
+  "cobertura_geografica_pct": 100.0,
+  "ocupacao_media_pct": 90.2,
+  "distancia_media_unidade_referencia_km": 0.981,
+  "distancia_maxima_unidade_referencia_km": 4.95,
+  "faixas_unidade_referencia_pct": {
+   "até 0,5 km": 20.23,
+   "0,5 a 1 km": 42.63,
+   "1 a 2 km": 29.56,
+   "2 a 3 km": 6.33,
+   "3 a 5 km": 1.26,
+   "mais de 5 km": 0.0
+  },
+  "acesso_unidade_mais_proxima": {
+   "distancia_media_km": 0.909,
+   "distancia_maxima_km": 4.95,
+   "setores_fora_do_raio": 0,
+   "pop_fora_do_raio": 0,
+   "faixas_pct": {
+    "até 0,5 km": 20.88,
+    "0,5 a 1 km": 44.08,
+    "1 a 2 km": 30.04,
+    "2 a 3 km": 2.58,
+    "3 a 5 km": 1.26,
+    "mais de 5 km": 0.0
+   }
+  }
+ }
+}

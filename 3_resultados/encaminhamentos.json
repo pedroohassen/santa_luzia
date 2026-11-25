@@ -1,0 +1,386 @@
+{
+ "criterio": "unidade ativa de nivel 2/3 mais proxima da UBS (pela rede de ruas)",
+ "unidades_desativadas_excluidas": [
+  "Pronto Atendimento 24h Sede",
+  "Centro Viva Vida / Hiperdia"
+ ],
+ "capacidade": "nao avaliada: a base nao tem leitos, producao ambulatorial (SIA) ou hospitalar (SIH)",
+ "servicos": {
+  "Urgência": [
+   "UPA São Benedito"
+  ],
+  "Consultas especializadas": [
+   "Centro de Consultas Especializadas I",
+   "Centro de Consultas Especializadas II",
+   "CTA",
+   "APAE"
+  ],
+  "Saúde mental": [
+   "CAPS Adulto",
+   "CAPS Infantojuvenil"
+  ],
+  "Saúde bucal especializada": [
+   "Centro Odontológico Municipal"
+  ],
+  "Hospitalar": [
+   "Hospital Municipal",
+   "Hospital São João de Deus"
+  ]
+ },
+ "atual": {
+  "por_servico": {
+   "Urgência": {
+    "distancia_media_km": 5.58,
+    "distancia_maxima_km": 34.89,
+    "pop_acima_5km_pct": 40.2,
+    "pop_acima_10km_pct": 20.7,
+    "distancia_media_direta_km": 5.58
+   },
+   "Consultas especializadas": {
+    "distancia_media_km": 3.27,
+    "distancia_maxima_km": 27.52,
+    "pop_acima_5km_pct": 15.9,
+    "pop_acima_10km_pct": 3.6,
+    "distancia_media_direta_km": 3.17
+   },
+   "Saúde mental": {
+    "distancia_media_km": 7.33,
+    "distancia_maxima_km": 26.03,
+    "pop_acima_5km_pct": 74.0,
+    "pop_acima_10km_pct": 18.7,
+    "distancia_media_direta_km": 7.33
+   },
+   "Saúde bucal especializada": {
+    "distancia_media_km": 7.62,
+    "distancia_maxima_km": 24.97,
+    "pop_acima_5km_pct": 73.7,
+    "pop_acima_10km_pct": 30.6,
+    "distancia_media_direta_km": 7.62
+   },
+   "Hospitalar": {
+    "distancia_media_km": 7.73,
+    "distancia_maxima_km": 24.76,
+    "pop_acima_5km_pct": 74.2,
+    "pop_acima_10km_pct": 36.2,
+    "distancia_media_direta_km": 7.72
+   }
+  },
+  "populacao_referenciada": [
+   {
+    "tipo de cuidado": "Consultas especializadas",
+    "unidade de referência": "APAE",
+    "população referenciada": 97184,
+    "UBS que encaminham": 13
+   },
+   {
+    "tipo de cuidado": "Consultas especializadas",
+    "unidade de referência": "Centro de Consultas Especializadas I",
+    "população referenciada": 115744,
+    "UBS que encaminham": 13
+   },
+   {
+    "tipo de cuidado": "Consultas especializadas",
+    "unidade de referência": "Centro de Consultas Especializadas II",
+    "população referenciada": 17454,
+    "UBS que encaminham": 2
+   },
+   {
+    "tipo de cuidado": "Hospitalar",
+    "unidade de referência": "Hospital Municipal",
+    "população referenciada": 17467,
+    "UBS que encaminham": 3
+   },
+   {
+    "tipo de cuidado": "Hospitalar",
+    "unidade de referência": "Hospital São João de Deus",
+    "população referenciada": 212915,
+    "UBS que encaminham": 25
+   },
+   {
+    "tipo de cuidado": "Saúde bucal especializada",
+    "unidade de referência": "Centro Odontológico Municipal",
+    "população referenciada": 230382,
+    "UBS que encaminham": 28
+   },
+   {
+    "tipo de cuidado": "Saúde mental",
+    "unidade de referência": "CAPS Infantojuvenil",
+    "população referenciada": 230382,
+    "UBS que encaminham": 28
+   },
+   {
+    "tipo de cuidado": "Urgência",
+    "unidade de referência": "UPA São Benedito",
+    "população referenciada": 230382,
+    "UBS que encaminham": 28
+   }
+  ]
+ },
+ "C1": {
+  "por_servico": {
+   "Urgência": {
+    "distancia_media_km": 5.58,
+    "distancia_maxima_km": 34.89,
+    "pop_acima_5km_pct": 40.2,
+    "pop_acima_10km_pct": 20.7,
+    "distancia_media_direta_km": 5.58
+   },
+   "Consultas especializadas": {
+    "distancia_media_km": 3.19,
+    "distancia_maxima_km": 27.52,
+    "pop_acima_5km_pct": 14.6,
+    "pop_acima_10km_pct": 3.6,
+    "distancia_media_direta_km": 3.17
+   },
+   "Saúde mental": {
+    "distancia_media_km": 7.33,
+    "distancia_maxima_km": 26.03,
+    "pop_acima_5km_pct": 74.0,
+    "pop_acima_10km_pct": 18.7,
+    "distancia_media_direta_km": 7.33
+   },
+   "Saúde bucal especializada": {
+    "distancia_media_km": 7.62,
+    "distancia_maxima_km": 24.97,
+    "pop_acima_5km_pct": 73.7,
+    "pop_acima_10km_pct": 30.6,
+    "distancia_media_direta_km": 7.62
+   },
+   "Hospitalar": {
+    "distancia_media_km": 7.73,
+    "distancia_maxima_km": 24.76,
+    "pop_acima_5km_pct": 74.2,
+    "pop_acima_10km_pct": 36.2,
+    "distancia_media_direta_km": 7.72
+   }
+  },
+  "populacao_referenciada": [
+   {
+    "tipo de cuidado": "Consultas especializadas",
+    "unidade de referência": "APAE",
+    "população referenciada": 97885,
+    "UBS que encaminham": 20
+   },
+   {
+    "tipo de cuidado": "Consultas especializadas",
+    "unidade de referência": "Centro de Consultas Especializadas I",
+    "população referenciada": 111520,
+    "UBS que encaminham": 13
+   },
+   {
+    "tipo de cuidado": "Consultas especializadas",
+    "unidade de referência": "Centro de Consultas Especializadas II",
+    "população referenciada": 20977,
+    "UBS que encaminham": 2
+   },
+   {
+    "tipo de cuidado": "Hospitalar",
+    "unidade de referência": "Hospital Municipal",
+    "população referenciada": 16734,
+    "UBS que encaminham": 6
+   },
+   {
+    "tipo de cuidado": "Hospitalar",
+    "unidade de referência": "Hospital São João de Deus",
+    "população referenciada": 213648,
+    "UBS que encaminham": 29
+   },
+   {
+    "tipo de cuidado": "Saúde bucal especializada",
+    "unidade de referência": "Centro Odontológico Municipal",
+    "população referenciada": 230382,
+    "UBS que encaminham": 35
+   },
+   {
+    "tipo de cuidado": "Saúde mental",
+    "unidade de referência": "CAPS Infantojuvenil",
+    "população referenciada": 230382,
+    "UBS que encaminham": 35
+   },
+   {
+    "tipo de cuidado": "Urgência",
+    "unidade de referência": "UPA São Benedito",
+    "população referenciada": 230382,
+    "UBS que encaminham": 35
+   }
+  ]
+ },
+ "C2": {
+  "por_servico": {
+   "Urgência": {
+    "distancia_media_km": 5.58,
+    "distancia_maxima_km": 34.89,
+    "pop_acima_5km_pct": 40.2,
+    "pop_acima_10km_pct": 20.7,
+    "distancia_media_direta_km": 5.58
+   },
+   "Consultas especializadas": {
+    "distancia_media_km": 3.18,
+    "distancia_maxima_km": 27.52,
+    "pop_acima_5km_pct": 14.5,
+    "pop_acima_10km_pct": 3.6,
+    "distancia_media_direta_km": 3.17
+   },
+   "Saúde mental": {
+    "distancia_media_km": 7.33,
+    "distancia_maxima_km": 26.03,
+    "pop_acima_5km_pct": 74.0,
+    "pop_acima_10km_pct": 18.7,
+    "distancia_media_direta_km": 7.33
+   },
+   "Saúde bucal especializada": {
+    "distancia_media_km": 7.62,
+    "distancia_maxima_km": 24.97,
+    "pop_acima_5km_pct": 73.7,
+    "pop_acima_10km_pct": 30.6,
+    "distancia_media_direta_km": 7.62
+   },
+   "Hospitalar": {
+    "distancia_media_km": 7.73,
+    "distancia_maxima_km": 24.76,
+    "pop_acima_5km_pct": 74.2,
+    "pop_acima_10km_pct": 36.2,
+    "distancia_media_direta_km": 7.72
+   }
+  },
+  "populacao_referenciada": [
+   {
+    "tipo de cuidado": "Consultas especializadas",
+    "unidade de referência": "APAE",
+    "população referenciada": 94484,
+    "UBS que encaminham": 13
+   },
+   {
+    "tipo de cuidado": "Consultas especializadas",
+    "unidade de referência": "Centro de Consultas Especializadas I",
+    "população referenciada": 114965,
+    "UBS que encaminham": 13
+   },
+   {
+    "tipo de cuidado": "Consultas especializadas",
+    "unidade de referência": "Centro de Consultas Especializadas II",
+    "população referenciada": 20933,
+    "UBS que encaminham": 2
+   },
+   {
+    "tipo de cuidado": "Hospitalar",
+    "unidade de referência": "Hospital Municipal",
+    "população referenciada": 16537,
+    "UBS que encaminham": 3
+   },
+   {
+    "tipo de cuidado": "Hospitalar",
+    "unidade de referência": "Hospital São João de Deus",
+    "população referenciada": 213845,
+    "UBS que encaminham": 25
+   },
+   {
+    "tipo de cuidado": "Saúde bucal especializada",
+    "unidade de referência": "Centro Odontológico Municipal",
+    "população referenciada": 230382,
+    "UBS que encaminham": 28
+   },
+   {
+    "tipo de cuidado": "Saúde mental",
+    "unidade de referência": "CAPS Infantojuvenil",
+    "população referenciada": 230382,
+    "UBS que encaminham": 28
+   },
+   {
+    "tipo de cuidado": "Urgência",
+    "unidade de referência": "UPA São Benedito",
+    "população referenciada": 230382,
+    "UBS que encaminham": 28
+   }
+  ]
+ },
+ "C3": {
+  "por_servico": {
+   "Urgência": {
+    "distancia_media_km": 5.58,
+    "distancia_maxima_km": 34.89,
+    "pop_acima_5km_pct": 40.2,
+    "pop_acima_10km_pct": 20.7,
+    "distancia_media_direta_km": 5.58
+   },
+   "Consultas especializadas": {
+    "distancia_media_km": 3.17,
+    "distancia_maxima_km": 27.52,
+    "pop_acima_5km_pct": 14.0,
+    "pop_acima_10km_pct": 3.6,
+    "distancia_media_direta_km": 3.17
+   },
+   "Saúde mental": {
+    "distancia_media_km": 7.33,
+    "distancia_maxima_km": 26.03,
+    "pop_acima_5km_pct": 74.0,
+    "pop_acima_10km_pct": 18.7,
+    "distancia_media_direta_km": 7.33
+   },
+   "Saúde bucal especializada": {
+    "distancia_media_km": 7.62,
+    "distancia_maxima_km": 24.97,
+    "pop_acima_5km_pct": 73.7,
+    "pop_acima_10km_pct": 30.6,
+    "distancia_media_direta_km": 7.62
+   },
+   "Hospitalar": {
+    "distancia_media_km": 7.73,
+    "distancia_maxima_km": 24.76,
+    "pop_acima_5km_pct": 74.2,
+    "pop_acima_10km_pct": 36.2,
+    "distancia_media_direta_km": 7.72
+   }
+  },
+  "populacao_referenciada": [
+   {
+    "tipo de cuidado": "Consultas especializadas",
+    "unidade de referência": "APAE",
+    "população referenciada": 95342,
+    "UBS que encaminham": 13
+   },
+   {
+    "tipo de cuidado": "Consultas especializadas",
+    "unidade de referência": "Centro de Consultas Especializadas I",
+    "população referenciada": 114107,
+    "UBS que encaminham": 13
+   },
+   {
+    "tipo de cuidado": "Consultas especializadas",
+    "unidade de referência": "Centro de Consultas Especializadas II",
+    "população referenciada": 20933,
+    "UBS que encaminham": 2
+   },
+   {
+    "tipo de cuidado": "Hospitalar",
+    "unidade de referência": "Hospital Municipal",
+    "população referenciada": 16734,
+    "UBS que encaminham": 3
+   },
+   {
+    "tipo de cuidado": "Hospitalar",
+    "unidade de referência": "Hospital São João de Deus",
+    "população referenciada": 213648,
+    "UBS que encaminham": 25
+   },
+   {
+    "tipo de cuidado": "Saúde bucal especializada",
+    "unidade de referência": "Centro Odontológico Municipal",
+    "população referenciada": 230382,
+    "UBS que encaminham": 28
+   },
+   {
+    "tipo de cuidado": "Saúde mental",
+    "unidade de referência": "CAPS Infantojuvenil",
+    "população referenciada": 230382,
+    "UBS que encaminham": 28
+   },
+   {
+    "tipo de cuidado": "Urgência",
+    "unidade de referência": "UPA São Benedito",
+    "população referenciada": 230382,
+    "UBS que encaminham": 28
+   }
+  ]
+ }
+}

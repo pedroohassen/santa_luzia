@@ -1,0 +1,529 @@
+{
+ "populacao_descoberta": 2302,
+ "populacao_descoberta_fora_area_urbanizada": 2147,
+ "populacao_descoberta_area_urbanizada": 155,
+ "setores_descobertos": 13,
+ "setores": [
+  {
+   "setor": "315780705000055",
+   "distrito": "Santa Luzia",
+   "situacao_ibge": "Área rural exclusive aglomerados",
+   "populacao_setor": "226.0",
+   "populacao_descoberta": "226.0",
+   "ubs_mais_proxima": "UBS Bom Destino",
+   "distancia_ubs_mais_proxima_km": "6.557"
+  },
+  {
+   "setor": "315780705000105",
+   "distrito": "Santa Luzia",
+   "situacao_ibge": "Área rural exclusive aglomerados",
+   "populacao_setor": "146.1",
+   "populacao_descoberta": "146.1",
+   "ubs_mais_proxima": "UBS Bom Destino",
+   "distancia_ubs_mais_proxima_km": "5.044"
+  },
+  {
+   "setor": "315780705000147",
+   "distrito": "Santa Luzia",
+   "situacao_ibge": "Área rural exclusive aglomerados",
+   "populacao_setor": "117.7",
+   "populacao_descoberta": "117.7",
+   "ubs_mais_proxima": "UBS Frimisa",
+   "distancia_ubs_mais_proxima_km": "4.760"
+  },
+  {
+   "setor": "315780705000151",
+   "distrito": "Santa Luzia",
+   "situacao_ibge": "Área rural exclusive aglomerados",
+   "populacao_setor": "233.4",
+   "populacao_descoberta": "233.4",
+   "ubs_mais_proxima": "UBS Pinhões",
+   "distancia_ubs_mais_proxima_km": "10.036"
+  },
+  {
+   "setor": "315780705000156",
+   "distrito": "Santa Luzia",
+   "situacao_ibge": "Área rural exclusive aglomerados",
+   "populacao_setor": "194.5",
+   "populacao_descoberta": "194.5",
+   "ubs_mais_proxima": "UBS Pinhões",
+   "distancia_ubs_mais_proxima_km": "10.358"
+  },
+  {
+   "setor": "315780705000162",
+   "distrito": "Santa Luzia",
+   "situacao_ibge": "Área rural exclusive aglomerados",
+   "populacao_setor": "52.6",
+   "populacao_descoberta": "52.6",
+   "ubs_mais_proxima": "UBS Pinhões",
+   "distancia_ubs_mais_proxima_km": "7.547"
+  },
+  {
+   "setor": "315780705000163",
+   "distrito": "Santa Luzia",
+   "situacao_ibge": "Área não urbanizada de cidade ou vila",
+   "populacao_setor": "254.4",
+   "populacao_descoberta": "254.4",
+   "ubs_mais_proxima": "UBS Pinhões",
+   "distancia_ubs_mais_proxima_km": "5.571"
+  },
+  {
+   "setor": "315780705000165",
+   "distrito": "Santa Luzia",
+   "situacao_ibge": "Área rural exclusive aglomerados",
+   "populacao_setor": "148.2",
+   "populacao_descoberta": "148.2",
+   "ubs_mais_proxima": "UBS Córrego das Calçadas",
+   "distancia_ubs_mais_proxima_km": "7.705"
+  },
+  {
+   "setor": "315780705000167",
+   "distrito": "Santa Luzia",
+   "situacao_ibge": "Área rural exclusive aglomerados",
+   "populacao_setor": "403.7",
+   "populacao_descoberta": "403.7",
+   "ubs_mais_proxima": "UBS Bom Destino",
+   "distancia_ubs_mais_proxima_km": "4.971"
+  },
+  {
+   "setor": "315780705000170",
+   "distrito": "Santa Luzia",
+   "situacao_ibge": "Área rural exclusive aglomerados",
+   "populacao_setor": "67.3",
+   "populacao_descoberta": "67.3",
+   "ubs_mais_proxima": "UBS Pinhões",
+   "distancia_ubs_mais_proxima_km": "1.722"
+  },
+  {
+   "setor": "315780710000165",
+   "distrito": "São Benedito",
+   "situacao_ibge": "Área urbanizada de cidade ou vila",
+   "populacao_setor": "151.4",
+   "populacao_descoberta": "151.4",
+   "ubs_mais_proxima": "UBS Frimisa",
+   "distancia_ubs_mais_proxima_km": "3.005"
+  },
+  {
+   "setor": "315780710000270",
+   "distrito": "São Benedito",
+   "situacao_ibge": "Área urbanizada de cidade ou vila",
+   "populacao_setor": "4.2",
+   "populacao_descoberta": "4.2",
+   "ubs_mais_proxima": "UBS Vale das Acácias",
+   "distancia_ubs_mais_proxima_km": "0.404"
+  },
+  {
+   "setor": "315780710000291",
+   "distrito": "São Benedito",
+   "situacao_ibge": "Área rural exclusive aglomerados",
+   "populacao_setor": "302.8",
+   "populacao_descoberta": "302.8",
+   "ubs_mais_proxima": "UBS Frimisa",
+   "distancia_ubs_mais_proxima_km": "6.107"
+  }
+ ],
+ "n_equipes_volantes": 1,
+ "ubs_sede": "UBS Bom Jesus",
+ "ubs_sede_id": "UBS_6198171",
+ "ubs_sede_lat": -19.756628,
+ "ubs_sede_lon": -43.847156,
+ "pontos": [
+  {
+   "ponto": "Local no setor 315780705000167",
+   "setores": "315780705000167",
+   "populacao": 404,
+   "dist_sede_rede_km": 12.37,
+   "dias_por_mes": 3,
+   "dias_do_mes": "4 11 18",
+   "consultas_medicas_mes": 53.0,
+   "consultas_por_dia_de_visita": 17.7,
+   "minutos_por_consulta_na_jornada": 27,
+   "km_mes": 74.2,
+   "lat": -19.83356,
+   "lon": -43.803159
+  },
+  {
+   "ponto": "Local no setor 315780710000291",
+   "setores": "315780710000291",
+   "populacao": 303,
+   "dist_sede_rede_km": 10.94,
+   "dias_por_mes": 3,
+   "dias_do_mes": "5 12 19",
+   "consultas_medicas_mes": 39.7,
+   "consultas_por_dia_de_visita": 13.2,
+   "minutos_por_consulta_na_jornada": 36,
+   "km_mes": 65.6,
+   "lat": -19.733989,
+   "lon": -43.892282
+  },
+  {
+   "ponto": "Local no setor 315780705000163",
+   "setores": "315780705000163",
+   "populacao": 254,
+   "dist_sede_rede_km": 13.53,
+   "dias_por_mes": 2,
+   "dias_do_mes": "9 14",
+   "consultas_medicas_mes": 33.4,
+   "consultas_por_dia_de_visita": 16.7,
+   "minutos_por_consulta_na_jornada": 29,
+   "km_mes": 54.1,
+   "lat": -19.693466,
+   "lon": -43.77846
+  },
+  {
+   "ponto": "Local no setor 315780705000151",
+   "setores": "315780705000151",
+   "populacao": 233,
+   "dist_sede_rede_km": 11.09,
+   "dias_por_mes": 2,
+   "dias_do_mes": "7 16",
+   "consultas_medicas_mes": 30.6,
+   "consultas_por_dia_de_visita": 15.3,
+   "minutos_por_consulta_na_jornada": 31,
+   "km_mes": 44.4,
+   "lat": -19.742088,
+   "lon": -43.799721
+  },
+  {
+   "ponto": "Local no setor 315780705000055",
+   "setores": "315780705000055",
+   "populacao": 226,
+   "dist_sede_rede_km": 12.19,
+   "dias_por_mes": 2,
+   "dias_do_mes": "6 17",
+   "consultas_medicas_mes": 29.7,
+   "consultas_por_dia_de_visita": 14.8,
+   "minutos_por_consulta_na_jornada": 32,
+   "km_mes": 48.8,
+   "lat": -19.820323,
+   "lon": -43.79229
+  },
+  {
+   "ponto": "Local no setor 315780705000156",
+   "setores": "315780705000156",
+   "populacao": 194,
+   "dist_sede_rede_km": 18.32,
+   "dias_por_mes": 2,
+   "dias_do_mes": "8 15",
+   "consultas_medicas_mes": 25.5,
+   "consultas_por_dia_de_visita": 12.8,
+   "minutos_por_consulta_na_jornada": 38,
+   "km_mes": 73.3,
+   "lat": -19.648779,
+   "lon": -43.772658
+  },
+  {
+   "ponto": "Local no setor 315780710000165",
+   "setores": "315780710000165",
+   "populacao": 151,
+   "dist_sede_rede_km": 7.9,
+   "dias_por_mes": 1,
+   "dias_do_mes": "21",
+   "consultas_medicas_mes": 19.9,
+   "consultas_por_dia_de_visita": 19.9,
+   "minutos_por_consulta_na_jornada": 24,
+   "km_mes": 15.8,
+   "lat": -19.746501,
+   "lon": -43.900434
+  },
+  {
+   "ponto": "Local no setor 315780705000165",
+   "setores": "315780705000165",
+   "populacao": 148,
+   "dist_sede_rede_km": 9.73,
+   "dias_por_mes": 1,
+   "dias_do_mes": "20",
+   "consultas_medicas_mes": 19.5,
+   "consultas_por_dia_de_visita": 19.5,
+   "minutos_por_consulta_na_jornada": 25,
+   "km_mes": 19.5,
+   "lat": -19.810619,
+   "lon": -43.852695
+  },
+  {
+   "ponto": "Local no setor 315780705000105",
+   "setores": "315780705000105",
+   "populacao": 146,
+   "dist_sede_rede_km": 10.01,
+   "dias_por_mes": 1,
+   "dias_do_mes": "10",
+   "consultas_medicas_mes": 19.2,
+   "consultas_por_dia_de_visita": 19.2,
+   "minutos_por_consulta_na_jornada": 25,
+   "km_mes": 20.0,
+   "lat": -19.80382,
+   "lon": -43.817437
+  },
+  {
+   "ponto": "Local no setor 315780705000147",
+   "setores": "315780705000147",
+   "populacao": 118,
+   "dist_sede_rede_km": 9.59,
+   "dias_por_mes": 1,
+   "dias_do_mes": "13",
+   "consultas_medicas_mes": 15.4,
+   "consultas_por_dia_de_visita": 15.4,
+   "minutos_por_consulta_na_jornada": 31,
+   "km_mes": 19.2,
+   "lat": -19.737078,
+   "lon": -43.86751
+  },
+  {
+   "ponto": "Local no setor 315780705000170",
+   "setores": "315780705000170",
+   "populacao": 67,
+   "dist_sede_rede_km": 8.79,
+   "dias_por_mes": 1,
+   "dias_do_mes": "2",
+   "consultas_medicas_mes": 8.8,
+   "consultas_por_dia_de_visita": 8.8,
+   "minutos_por_consulta_na_jornada": 54,
+   "km_mes": 17.6,
+   "lat": -19.710155,
+   "lon": -43.799585
+  },
+  {
+   "ponto": "Local no setor 315780705000162",
+   "setores": "315780705000162",
+   "populacao": 53,
+   "dist_sede_rede_km": 15.51,
+   "dias_por_mes": 1,
+   "dias_do_mes": "3",
+   "consultas_medicas_mes": 6.9,
+   "consultas_por_dia_de_visita": 6.9,
+   "minutos_por_consulta_na_jornada": 70,
+   "km_mes": 31.0,
+   "lat": -19.699271,
+   "lon": -43.788439
+  },
+  {
+   "ponto": "Local no setor 315780710000270",
+   "setores": "315780710000270",
+   "populacao": 4,
+   "dist_sede_rede_km": 8.0,
+   "dias_por_mes": 1,
+   "dias_do_mes": "1",
+   "consultas_medicas_mes": 0.6,
+   "consultas_por_dia_de_visita": 0.6,
+   "minutos_por_consulta_na_jornada": 871,
+   "km_mes": 16.0,
+   "lat": -19.792276,
+   "lon": -43.893007
+  }
+ ],
+ "cronograma": [
+  {
+   "dia_util": 1,
+   "semana": 1,
+   "dia_semana": "segunda",
+   "ponto": "Local no setor 315780710000270",
+   "km_ida_e_volta": 16.0
+  },
+  {
+   "dia_util": 2,
+   "semana": 1,
+   "dia_semana": "terça",
+   "ponto": "Local no setor 315780705000170",
+   "km_ida_e_volta": 17.6
+  },
+  {
+   "dia_util": 3,
+   "semana": 1,
+   "dia_semana": "quarta",
+   "ponto": "Local no setor 315780705000162",
+   "km_ida_e_volta": 31.0
+  },
+  {
+   "dia_util": 4,
+   "semana": 1,
+   "dia_semana": "quinta",
+   "ponto": "Local no setor 315780705000167",
+   "km_ida_e_volta": 24.7
+  },
+  {
+   "dia_util": 5,
+   "semana": 1,
+   "dia_semana": "sexta",
+   "ponto": "Local no setor 315780710000291",
+   "km_ida_e_volta": 21.9
+  },
+  {
+   "dia_util": 6,
+   "semana": 2,
+   "dia_semana": "segunda",
+   "ponto": "Local no setor 315780705000055",
+   "km_ida_e_volta": 24.4
+  },
+  {
+   "dia_util": 7,
+   "semana": 2,
+   "dia_semana": "terça",
+   "ponto": "Local no setor 315780705000151",
+   "km_ida_e_volta": 22.2
+  },
+  {
+   "dia_util": 8,
+   "semana": 2,
+   "dia_semana": "quarta",
+   "ponto": "Local no setor 315780705000156",
+   "km_ida_e_volta": 36.6
+  },
+  {
+   "dia_util": 9,
+   "semana": 2,
+   "dia_semana": "quinta",
+   "ponto": "Local no setor 315780705000163",
+   "km_ida_e_volta": 27.1
+  },
+  {
+   "dia_util": 10,
+   "semana": 2,
+   "dia_semana": "sexta",
+   "ponto": "Local no setor 315780705000105",
+   "km_ida_e_volta": 20.0
+  },
+  {
+   "dia_util": 11,
+   "semana": 3,
+   "dia_semana": "segunda",
+   "ponto": "Local no setor 315780705000167",
+   "km_ida_e_volta": 24.7
+  },
+  {
+   "dia_util": 12,
+   "semana": 3,
+   "dia_semana": "terça",
+   "ponto": "Local no setor 315780710000291",
+   "km_ida_e_volta": 21.9
+  },
+  {
+   "dia_util": 13,
+   "semana": 3,
+   "dia_semana": "quarta",
+   "ponto": "Local no setor 315780705000147",
+   "km_ida_e_volta": 19.2
+  },
+  {
+   "dia_util": 14,
+   "semana": 3,
+   "dia_semana": "quinta",
+   "ponto": "Local no setor 315780705000163",
+   "km_ida_e_volta": 27.1
+  },
+  {
+   "dia_util": 15,
+   "semana": 3,
+   "dia_semana": "sexta",
+   "ponto": "Local no setor 315780705000156",
+   "km_ida_e_volta": 36.6
+  },
+  {
+   "dia_util": 16,
+   "semana": 4,
+   "dia_semana": "segunda",
+   "ponto": "Local no setor 315780705000151",
+   "km_ida_e_volta": 22.2
+  },
+  {
+   "dia_util": 17,
+   "semana": 4,
+   "dia_semana": "terça",
+   "ponto": "Local no setor 315780705000055",
+   "km_ida_e_volta": 24.4
+  },
+  {
+   "dia_util": 18,
+   "semana": 4,
+   "dia_semana": "quarta",
+   "ponto": "Local no setor 315780705000167",
+   "km_ida_e_volta": 24.7
+  },
+  {
+   "dia_util": 19,
+   "semana": 4,
+   "dia_semana": "quinta",
+   "ponto": "Local no setor 315780710000291",
+   "km_ida_e_volta": 21.9
+  },
+  {
+   "dia_util": 20,
+   "semana": 4,
+   "dia_semana": "sexta",
+   "ponto": "Local no setor 315780705000165",
+   "km_ida_e_volta": 19.5
+  },
+  {
+   "dia_util": 21,
+   "semana": 5,
+   "dia_semana": "segunda",
+   "ponto": "Local no setor 315780710000165",
+   "km_ida_e_volta": 15.8
+  }
+ ],
+ "km_ano": 5993,
+ "consultas_medicas_esperadas_ano": 3626,
+ "variante_visita_semanal": {
+  "n_equipes_volantes": 3,
+  "dias_por_ponto": {
+   "Local no setor 315780705000055": 5,
+   "Local no setor 315780705000105": 4,
+   "Local no setor 315780705000147": 4,
+   "Local no setor 315780705000151": 5,
+   "Local no setor 315780705000156": 4,
+   "Local no setor 315780705000162": 4,
+   "Local no setor 315780705000163": 5,
+   "Local no setor 315780705000165": 4,
+   "Local no setor 315780705000167": 9,
+   "Local no setor 315780705000170": 4,
+   "Local no setor 315780710000165": 4,
+   "Local no setor 315780710000270": 4,
+   "Local no setor 315780710000291": 7
+  },
+  "km_ano": 17360,
+  "custeio_bruto_ano_R$": 2957316,
+  "veiculo_ano_R$": 156931,
+  "total_sem_repasse_ano_R$": 3114247
+ },
+ "composicao": [
+  "médico(a)",
+  "enfermeiro(a)",
+  "técnico(a) ou auxiliar de enfermagem",
+  "agente(s) comunitário(s) de saúde dos setores atendidos",
+  "motorista (no custo do veículo)"
+ ],
+ "jornada": "40 h semanais (PNAB), 5 dias por semana, 8 h por dia, um ponto por dia",
+ "custo_veiculo_ano_R$": {
+  "frota locada (central)": 54177,
+  "TáxiGov (inferior)": 23253,
+  "frota própria (superior)": 57413
+ },
+ "custos": {
+  "obras_R$": 0,
+  "custeio_liquido_esf_novas_ano_R$": 6977721,
+  "volante_custeio_bruto_ano_R$": 985772,
+  "volante_veiculo_ano_R$": 54177,
+  "volante_total_sem_repasse_ano_R$": 1039949,
+  "volante_total_com_repasse_ano_R$": 751949,
+  "esforco_anual_sem_repasse_volante_R$": 8017670,
+  "esforco_anual_com_repasse_volante_R$": 7729670,
+  "esforco_sem_repasse_pct_despesa_APS": 14.3,
+  "esforco_com_repasse_pct_despesa_APS": 13.8,
+  "custo_por_consulta_esperada_R$": 287
+ },
+ "premissas": {
+  "raio_ponto_de_apoio_km": 3.0,
+  "dias_uteis_mes": 21,
+  "minimo_dias_mes": 2,
+  "minimo_dias_aplicado": 1,
+  "distancia": "rede de ruas (OpenStreetMap)",
+  "visitas_ano": 1.575,
+  "custo_km_R$": {
+   "frota locada (central)": 9.04,
+   "TáxiGov (inferior)": 3.88,
+   "frota própria (superior)": 9.58
+  },
+  "fonte_custo_km": "Central de Compras – Ministério da Economia, 'Dados sobre transporte de pessoas da Administração Pública Federal' (custo por km rodado)",
+  "custo_equipe": "custo medio da APS por eSF (teto), RAG 2025 / 57 eSF",
+  "repasse": "R$ 24 mil/mes por eSF (planilha), so se credenciada"
+ }
+}

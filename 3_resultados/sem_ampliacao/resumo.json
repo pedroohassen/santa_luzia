@@ -1,0 +1,121 @@
+{
+  "cenario": {
+    "nome": "sem_ampliacao",
+    "pop_ref": "ms",
+    "cap": 3500,
+    "dmax_urb": 3.0,
+    "dmax_nurb": 5.0,
+    "meta": 1.0,
+    "pmax": 5,
+    "candidatos": "todos",
+    "eap": false,
+    "anos_crescimento": 0,
+    "distancia": "rede",
+    "fator_rota": 1.0,
+    "ampliacao": false,
+    "fracionado": false,
+    "inicio_de": null
+  },
+  "situacao_atual": {
+    "cobertura_efetiva_atual_pct": 85.21,
+    "cobertura_geografica_atual_pct": 99.26,
+    "descobertos_atual": 34064,
+    "descobertos_moram_longe": 1709,
+    "descobertos_sem_vaga": 32355,
+    "cobertura_potencial_atual_pct": 86.6,
+    "status": "Time limit reached"
+  },
+  "etapas": {
+    "1_min_equipes": {
+      "status": "Optimal",
+      "obj": 16.0,
+      "limitante": 16.0,
+      "gap": 0.0,
+      "tempo": 90.9
+    },
+    "2_min_investimento": {
+      "status": "Time limit reached",
+      "obj": 23436000.0,
+      "limitante": 22682000.0,
+      "gap": 0.032172725721112815,
+      "tempo": 1200.2
+    },
+    "3_min_distancia": {
+      "status": "Time limit reached",
+      "obj": 329947.2832556,
+      "limitante": 212975.58980443314,
+      "gap": 0.3545163102935826,
+      "tempo": 1800.2,
+      "polimento": 238351.1
+    }
+  },
+  "indicadores": {
+    "populacao_total": 230382,
+    "populacao_coberta": 230382,
+    "cobertura_efetiva_pct": 100.0,
+    "cobertura_geografica_pct": 100.0,
+    "descobertos": 0,
+    "equipes_atuais": 57,
+    "novas_equipes": 16.0,
+    "esf_em_ubs_existentes": 0,
+    "ubs_ampliadas": 0,
+    "esf_em_ubs_novas": 16.0,
+    "ubs_novas": 9,
+    "portes_ubs_novas": "7xP1 + 1xP4 + 1xP5",
+    "equipes_finais": 73.0,
+    "investimento_obras_R$": 23436000.0,
+    "distancia_media_km": 1.035,
+    "pessoa_km": 238351.1,
+    "distancia_maxima_km": 4.95,
+    "setores_divididos": 0,
+    "ocupacao_media_pct": 90.2,
+    "ocupacao_maxima_pct": 100.0,
+    "ocupacao_minima_pct": 4.2,
+    "verificacao": "OK"
+  },
+  "financeiro": {
+    "custo_medio_aps_por_esf_ano_R$": 985772,
+    "repasse_federal_por_esf_ano_R$": 288000,
+    "custeio_novas_equipes_bruto_ano_R$": 15772354,
+    "repasse_federal_novas_equipes_ano_R$": 4608000,
+    "custeio_liquido_municipio_ano_R$": 11164354,
+    "obras_por_ano_no_PPA_R$": 5859000,
+    "obras_amortizadas_ano_R$": 2343600,
+    "esforco_anual_PPA_R$": 17023354,
+    "esforco_anual_amortizado_R$": 13507954,
+    "esforco_PPA_pct_despesa_APS": 30.3,
+    "esforco_PPA_pct_despesa_saude": 8.2,
+    "custeio_bruto_pct_despesa_APS": 28.1,
+    "obras_total_pct_despesa_saude_anual": 11.3,
+    "aplicacao_propria_asps_atual_pct": 23.34,
+    "aplicacao_propria_asps_com_plano_pct": 27.28,
+    "folga_acima_minimo_lc141_R$": 36102035
+  },
+  "custos_anuais": {
+    "custo_esf_ano_R$": 985772,
+    "c_desl_R$_por_pessoa_km_ano": 11.0687,
+    "vida_util_anos": 25,
+    "governo_custeio_esf_ano_R$": 15772354,
+    "governo_obras_anualizadas_R$": 937440,
+    "governo_total_ano_R$": 16709794,
+    "populacao_deslocamento_ano_R$": 2638249,
+    "custo_total_ano_R$": 19348043
+  },
+  "referencias_financeiras": {
+    "despesa_saude_anual": 208260901.09,
+    "despesa_aps_anual": 56189012.36,
+    "receita_impostos_transf": 432747323.36,
+    "aplicado_asps_proprio": 101014133.21,
+    "minimo_asps_lc141": 64912098.5,
+    "horizonte_ppa_anos": 4,
+    "amortizacao_anos": 10
+  },
+  "parametros_integrado": {
+    "visitas_ano": 1.575,
+    "renda_hora_R$": 15.180000000000001,
+    "velocidade_kmh": 4.32,
+    "tarifa_km_R$": 0.0,
+    "vida_util_anos": 25,
+    "c_desl": 11.06875
+  }
+}
